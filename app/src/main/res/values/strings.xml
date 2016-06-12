@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MessageEncryptor</string>
+    <string name="message">Message</string>
+    <string name="output">Output</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="copy_to_clipboard">Copy to clipboard</string>
+    <string name="share">Share</string>
+    <string name="copied_to_clipboard">Output has been copied to clipboard</string>
+    <string name="decrypt_on_startup">Decrypt on startup</string>
+    <string name="clipboard_is_empty">Clipboard is empty</string>
+</resources>
